@@ -1,12 +1,14 @@
 
 - 👋 Hi, I’m @eebrutoklu
-- 📚 Once a computer science teacher, now a Junior Web Developer - Frontend - I create software and share what I learn.
-- 🎓 Uludağ University Computer Education and Instructional Technology Bachelor of Science - Master's degree, 🖊️ Anadolu University Computer Science - currently pursuing PhD.
-- 👀 I’m interested in Frontend Web Development.
-- 🌱 I’m currently learning React, Javascript, Bootstrap, CSS, HTML 
-- 💞️ I’m looking to collaborate on collaborations where I can improve myself, gain experience through teamwork, and expand my knowledge.
+- 📚 Starting as a graduate of Computer and Instructional Technologies, I am now a Web and Mobile Developer.
+- ✨ Frontend Developer. I develop and share software by continuously improving myself.
+- 🎓 Uludağ University Computer Education and Instructional Technologies Bachelor's and Master's degrees,
+- 🖊️ Currently pursuing a PhD in Computer Science at Anadolu University.
+- 👀 I am interested in Frontend Web and Mobile Application Development.
+- 🌱 Currently, I am working on HTML, CSS, Bootstrap, JavaScript, TypeScript, React, and React Native.
+- 💞️ I am looking for collaborations where I can enhance my skills, gain experience through teamwork and broaden my knowledge.
 - 📫 How to reach me: eebrutoklu@outlook.com / eebrutoklu@gmail.com
-- Tech Stack
+- 💎 Tech Stack
 
 [<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="20">](https://html.com/) &nbsp;&nbsp;
 [<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="20">](https://www.w3.org/Style/CSS/Overview.en.html) &nbsp;&nbsp;
