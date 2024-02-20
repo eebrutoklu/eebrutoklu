@@ -7,4 +7,5 @@
 - 💞️ I’m looking to collaborate on collaborations where I can improve myself, gain experience through teamwork, and expand my knowledge.
 - 📫 How to reach me: eebrutoklu@outlook.com / eebrutoklu@gmail.com
 - Tech Stack
-![Logo]([link/to/your/logo.png](https://icon-library.com/images/html5-icon/html5-icon-13.jpg)https://icon-library.com/images/html5-icon/html5-icon-13.jpg)
+![Merala HTML Logo](https://icon-library.com/images/html5-icon/html5-icon-13.jpg)
+
