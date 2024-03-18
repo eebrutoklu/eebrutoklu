@@ -14,6 +14,7 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="20">](https://www.w3.org/Style/CSS/Overview.en.html) &nbsp;&nbsp;
 [<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="25">](https://sass-lang.com/) &nbsp;&nbsp;
 [<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="25">](https://getbootstrap.com/) &nbsp;&nbsp;
+[<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="25">](https://tailwindcss.com) &nbsp;&nbsp;
 [<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="20">](https://www.javascript.com/) &nbsp;&nbsp;
 [<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="20">](https://www.typescriptlang.org/) &nbsp;&nbsp;
 [<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="20">](https://reactjs.org/) &nbsp;&nbsp;
